@@ -2136,7 +2136,7 @@
 
 			ul.icons li {
 				display: inline-block;
-				padding: 0 1em 0 0;
+				padding: 0 1.2em 0 0;
 			}
 
 				ul.icons li:last-child {
@@ -2144,7 +2144,9 @@
 				}
 
 				ul.icons li .icon:before {
-					font-size: 1.5em;
+					font-size: 2.5em;
+
+					<!-- ============================================================ -->
 				}
 
 		ul.actions {
@@ -2571,9 +2573,9 @@
 
 	#main {
 		margin-left: 27%;
-		max-width: 70em;
+		max-width: 64em;
 		padding: 8em 4em 4em 4em;
-		width: calc(100% - 25%);
+		width: calc(100% - 27%);
 	}
 
 		#main > section {
