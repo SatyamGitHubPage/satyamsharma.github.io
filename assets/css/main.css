@@ -2483,7 +2483,7 @@
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("images/CityCollegeofNewYork.JPG");
+		background-image: url("images/overlay.png"), url("https://raw.githubusercontent.com/satyamsharma/satyamsharma.github.io/master/assets/css/images/CityCollegeofNewYork.JPG");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
